@@ -1,0 +1,22 @@
+[
+    {
+        "name": "BOGO",
+        "description": "A 2-for-1 (aka. Buy One Get One) deal is a discount which permits customers to 'purchase' one item for free when they buy another item of the same type.",
+        "options": [
+            {
+                "productCode": "VOUCHER"
+            }
+        ]
+    },
+    {
+        "name": "discount_quantity",
+        "description": "If the client purchases products in greater numbers, the price per unit is discounted.",
+        "options": [
+            {
+                "productCode": "TSHIRT",
+                "discountNumber": 3,
+                "discountedPrice": 19
+            }
+        ]
+    }
+]
